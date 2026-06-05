@@ -1,4 +1,4 @@
-#  HTML5 Foundational Practice Repository
+#  <i>HTML5 Foundational Practice Repository</i>
 ---
 
 ## Repository Blueprint & Directory Guide
